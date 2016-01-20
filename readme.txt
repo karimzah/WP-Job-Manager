@@ -44,7 +44,7 @@ You can browse available add-ons after installing the plugin by going to `Job Li
 
 Allow candidates to apply to jobs using a form & employers to view and manage the applications from their job dashboard.
 
-**[WooCommerce Paid Listings](https://wpjobmanager.com/add-ons/wc-paid-listings/)**
+**[WooCommerce Paid Listings](https://wpjobmanager.com/add-ons/wc-paid-listings/) **
 
 Paid listing functionality powered by WooCommerce. Create custom job packages which can be purchased or redeemed during job submission. Requires the WooCommerce plugin.
 
