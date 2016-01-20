@@ -40,23 +40,23 @@ Additional, advanced functionality is available through add-ons. Not only do the
 
 You can browse available add-ons after installing the plugin by going to `Job Listings > Add-ons`. Our popular add-ons include:
 
-**[Applications](https://wpjobmanager.com/add-ons/applications/)**
+**[Applications](https://wpjobmanager.com/add-ons/applications/) **
 
 Allow candidates to apply to jobs using a form & employers to view and manage the applications from their job dashboard.
 
-**[WooCommerce Paid Listings](https://wpjobmanager.com/add-ons/wc-paid-listings/)**
+**[WooCommerce Paid Listings](https://wpjobmanager.com/add-ons/wc-paid-listings/) **
 
 Paid listing functionality powered by WooCommerce. Create custom job packages which can be purchased or redeemed during job submission. Requires the WooCommerce plugin.
 
-**[Resume Manager](https://wpjobmanager.com/add-ons/resume-manager/)**
+**[Resume Manager](https://wpjobmanager.com/add-ons/resume-manager/) **
 
 Resume Manager is a plugin built on top of WP Job Manager which adds a resume submission form to your site and resume listings, all manageable from WordPress admin.
 
-**[Job Alerts](https://wpjobmanager.com/add-ons/job-alerts/)**
+**[Job Alerts](https://wpjobmanager.com/add-ons/job-alerts/) **
 
 Allow registered users to save their job searches and create alerts which send new jobs via email daily, weekly or fortnightly.
 
-**[Core add-on bundle](https://wpjobmanager.com/add-ons/bundle/)**
+**[Core add-on bundle](https://wpjobmanager.com/add-ons/bundle/) **
 
 You can get the above add-ons and several others at discount with our [Core Add-on Bundle](https://wpjobmanager.com/add-ons/bundle/). Take a look!
 
